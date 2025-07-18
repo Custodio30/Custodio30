@@ -26,11 +26,11 @@
 
 ###
 
-<p align="left">I'm João Custódio from Portugal<br><br>- 🔭 
-- 🤔 Exploring new technologies and developing software solutions.
-- 🎓 Studying {your course} at {college}.
-- 💼 Working as a {stack you work on} at {company}.
-- 🌱 Learning more about {technologies you're learning}. :D</p>
+<p align="left">I'm João Custódio from Portugal<br><br> 
+- 🤔 Exploring new technologies and developing software solutions.<br><br>
+- 🎓 Studying computer engineer  at Instituto Piaget.<br><br>
+- 💼 Working as a Front-end development  at Graxiom technology Lda.<br><br>
+- 🌱 Learning more about knowledge graph. </p>
 
 ###
 
