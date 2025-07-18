@@ -56,7 +56,7 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
-###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Custodio30&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -70,4 +70,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Custodio30/Custodio30/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Custodio30/Custodio30/output/pacman-contribution-graph.svg">
 </picture>
+
 ###
