@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm João Custódio from Portugal<br><br>- 🔭 I’m working as Front-end Development <br>- 📚 I'm currently learning Knowledge Graph <br>- ⚡ In my free time I like to play Counter Strike :D</p>
 
 ###
 
