@@ -27,9 +27,9 @@
 ###
 
 <p align="left">I'm João Custódio from Portugal<br><br> 
-- 🤔 Exploring new technologies and developing software solutions.<br><br>
-- 🎓 Studying computer engineer  at Instituto Piaget.<br><br>
-- 💼 Working as a Front-end development  at Graxiom technology Lda.<br><br>
+- 🤔 Exploring new technologies and developing software solutions.<br>
+- 🎓 Studying computer engineer  at Instituto Piaget.<br>
+- 💼 Working as a Front-end development  at Graxiom technology Lda.<br>
 - 🌱 Learning more about knowledge graph. </p>
 
 ###
