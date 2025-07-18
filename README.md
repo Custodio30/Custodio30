@@ -64,8 +64,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Custodio30/Custodio30/output/snake.svg" alt="Snake animation" />
-
-
-###
