@@ -26,7 +26,11 @@
 
 ###
 
-<p align="left">I'm João Custódio from Portugal<br><br>- 🔭 I’m working as Front-end Development <br>- 📚 I'm currently learning Knowledge Graph <br>- ⚡ In my free time I like to play Counter Strike :D</p>
+<p align="left">I'm João Custódio from Portugal<br><br>- 🔭 
+- 🤔 Exploring new technologies and developing software solutions.
+- 🎓 Studying {your course} at {college}.
+- 💼 Working as a {stack you work on} at {company}.
+- 🌱 Learning more about {technologies you're learning}. :D</p>
 
 ###
 
